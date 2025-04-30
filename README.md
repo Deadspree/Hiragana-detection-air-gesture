@@ -34,7 +34,7 @@ mediapipe
 
 # How to use the program:
 
-Tutorial Video:
+Results Video
 https://drive.google.com/file/d/1e_aXtc6eHqxJZ8n8Zhuc2FEmtj4FxniF/view?usp=sharing
 
 Start Drawing:
