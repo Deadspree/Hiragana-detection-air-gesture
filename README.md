@@ -34,7 +34,7 @@ mediapipe
 
 # How to use the program:
 
-Results Video
+
 https://drive.google.com/file/d/1e_aXtc6eHqxJZ8n8Zhuc2FEmtj4FxniF/view?usp=sharing
 
 Start Drawing:
@@ -49,4 +49,6 @@ Make prediction and refresh the canvas
 
 ![WIN_20240124_17_41_28_Pro](https://github.com/Deadspree/SML-Final/assets/91746877/afba3e6c-9bda-4c82-93ac-9d84683d45d4)
 
+# Results:
+https://drive.google.com/file/d/1e_aXtc6eHqxJZ8n8Zhuc2FEmtj4FxniF/view?usp=sharing
 
